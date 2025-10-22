@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image & Video Studio",
+  "description": "An application to edit images with text prompts using Gemini 2.5 Flash Image and generate videos from an image using Veo.",
+  "requestFramePermissions": []
+}

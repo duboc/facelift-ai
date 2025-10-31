@@ -1,0 +1,5 @@
+{
+  "name": "Facelift AI",
+  "description": "An AI-powered creative studio to edit images and generate videos from a single photo using Gemini.",
+  "requestFramePermissions": []
+}
